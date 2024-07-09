@@ -1,13 +1,9 @@
-<img src="demo.png" alt="Background" class="center">
-
-<h1 align="center"><pre>Hi, I'm Devaharsha!</h1>
-
-<h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI Projects</h2>
+<h1 align="center"><pre>Hi, I'm Yashas!</h1>
 
 - <b>Personalized University Selection</b>
   - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align = "right" width="350" height="300" />
+<img src="https://github.com/yashasp03/yashasp03/blob/main/AI_gif.gif" align = "right" width="350" height="300" />
 
 - <b>Image generation using GAN</b>
   - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
@@ -26,10 +22,10 @@
 
 <h2> Connect with me</h2>
 
-[<img align="left" alt="Devaharsha | Gmail" width="32px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
-[<img align="left" alt="Devaharsha | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" />][linkedin]
-[<img align="left" alt="Devaharsha | Whatsapp" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />][Whatsapp]
+[<img align="left" alt="Yashas | Gmail" width="32px" src="https://github.com/yashasp03/yashasp03/blob/main/Mail.jpg" />][gmail]
+[<img align="left" alt="Yashas | LinkedIn" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/LinkedIN.jpg" />][linkedin]
+[<img align="left" alt="Yashas | Whatsapp" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/WhatsApp.jpg" />][Whatsapp]
 
-[linkedin]: https://www.linkedin.com/in/devaharsha-m-49779b118/
-[gmail]: meesarapud@gmail.com
-[Whatsapp]: +447780246719 
+[linkedin]: (https://www.linkedin.com/in/yashasp03/)
+[gmail]: yashasparameshwara@gmail.com
+[Whatsapp]: +447587655006 
