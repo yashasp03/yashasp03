@@ -26,6 +26,6 @@
 [<img align="left" alt="Yashas | LinkedIn" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/LinkedIN.jpg" />][linkedin]
 [<img align="left" alt="Yashas | Whatsapp" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/WhatsApp.jpg" />][Whatsapp]
 
-[linkedin]: [https://www.linkedin.com/in/yashasp03/]
+[linkedin]: https://www.linkedin.com/in/yashasp03/
 [gmail]: yashasparameshwara@gmail.com
 [Whatsapp]: +447587655006 
