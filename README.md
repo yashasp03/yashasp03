@@ -5,27 +5,24 @@
 
 <img src="https://github.com/yashasp03/yashasp03/blob/main/AI_gif.gif" align = "right" width="350" height="300" />
 
-- <b>Image generation using GAN</b>
-  - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
-- <b>Classification of handwritten digits</b>
-  - [DNN](https://github.com/DevaharshaM/AI_Projects/tree/DNN)
-- <b>Detecting human faces in an image</b>
-  - [Face Detection](https://github.com/DevaharshaM/AI_Projects/tree/Face_Detection)
-- <b>Implementing the scenario of the famous TV show "Monty Hall"</b>
-  - [Monty Hall](https://github.com/DevaharshaM/AI_Projects/tree/Monty_Hall)
-- <b>Implementation of Washing Machine controller</b>
-  - [Washing Machine](https://github.com/DevaharshaM/AI_Projects/tree/Washing_Machine)
-- <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
-  - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
-- <b>Principal Component Analysis</b>
-  - [PCA](https://github.com/DevaharshaM/AI_Projects/blob/PCA/pca.py) 
+- <b>Image Segmentation</b>
+  - [Image Segmentation](https://github.com/yashasp03/AI_Projects/tree/Image_Segmentation)
+- <b>Object Recognition using Yolo</b>
+  - [Object Recognition](https://github.com/yashasp03/AI_Projects/tree/Object_Recognition)
+- <b>Topic Modelling Using Latent Dirichlet Allocation (LDA)</b>
+  - [Topic Modelling](https://github.com/yashasp03/AI_Projects/tree/Topic_Modelling)
+- <b>Risk Project Assesment using Fuzzy Systems</b>
+  - [Fuzzy Systems](https://github.com/yashasp03/AI_Projects/tree/Risk_Project_Assesment)
+- <b>Maze Solver using Genetic Algorithm</b>
+  - [Maze Solver](https://github.com/yashasp03/AI_Projects/tree/Maze_Solver) 
 
 <h2> Connect with me</h2>
 
-[<img align="left" alt="Yashas | Gmail" width="32px" src="https://github.com/yashasp03/yashasp03/blob/main/Mail.jpg" />][gmail]
+<a href="mailto:yashasparameshwara@gmail.com"><img align="left" alt="Yashas | Gmail" width="32px" src="https://github.com/yashasp03/yashasp03/blob/main/Mail.jpg" /></a>
 [<img align="left" alt="Yashas | LinkedIn" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/LinkedIN.jpg" />][linkedin]
 [<img align="left" alt="Yashas | Whatsapp" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/WhatsApp.jpg" />][Whatsapp]
+<a href="https://wa.me/447587655006"><img align="left" alt="Yashas | Whatsapp" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/WhatsApp.jpg" /></a>
 
 [linkedin]: https://www.linkedin.com/in/yashasp03/
-[gmail]: yashasparameshwara@gmail.com
-[Whatsapp]: +447587655006 
+[gmail]: mailto:yashasparameshwara@gmail.com
+[Whatsapp]: https://wa.me/447587655006
