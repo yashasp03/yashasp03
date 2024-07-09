@@ -18,9 +18,9 @@
 
 <h2> Connect with me</h2>
 
-<a href="mailto:yashasparameshwara@gmail.com"><img align="left" alt="Yashas | Gmail" width="32px" src="https://github.com/yashasp03/yashasp03/blob/main/Mail.jpg" /></a>
+<a href="mailto:yashasparameshwara@gmail.com"><img align="left" alt="Yashas | Gmail" width="32px" src="https://github.com/yashasp03/yashasp03/blob/main/Mail.jpg" />
+</a>
 [<img align="left" alt="Yashas | LinkedIn" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/LinkedIN.jpg" />][linkedin]
-[<img align="left" alt="Yashas | Whatsapp" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/WhatsApp.jpg" />][Whatsapp]
 <a href="https://wa.me/447587655006"><img align="left" alt="Yashas | Whatsapp" width="28px" src="https://github.com/yashasp03/yashasp03/blob/main/WhatsApp.jpg" /></a>
 
 [linkedin]: https://www.linkedin.com/in/yashasp03/
