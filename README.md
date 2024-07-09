@@ -28,4 +28,4 @@
 
 [linkedin]: https://www.linkedin.com/in/yashasp03/
 [gmail]: yashasparameshwara@gmail.com
-[Whatsapp]: https://web.whatsapp.com/ 
+[Whatsapp]: +447587655006 
