@@ -3,7 +3,7 @@
 - <b>Personalized University Selection</b>
   - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
 
-<img src="https://github.com/yashasp03/yashasp03/blob/main/AI_gif.gif" align = "right" width="350" height="300" />
+<img src="https://github.com/yashasp03/yashasp03/blob/main/AI_gif.gif" align = "right" width="550" height="310" />
 
 - <b>Image Segmentation</b>
   - [Image Segmentation](https://github.com/yashasp03/AI_Projects/tree/Image_Segmentation)
